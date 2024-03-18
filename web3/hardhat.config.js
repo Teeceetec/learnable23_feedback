@@ -1,10 +1,4 @@
 require("@nomicfoundation/hardhat-toolbox");
-require('dotenv').config();
-
-
- //const { ALCHEMY_HTTP_URL,PRIVATE_KEY, SEPOLIA_KEY } = process.env;
-
-
 
 module.exports = {
   defaultNetwork: "sepolia",
